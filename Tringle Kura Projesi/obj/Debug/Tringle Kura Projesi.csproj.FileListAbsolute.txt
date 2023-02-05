@@ -1,0 +1,6 @@
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\bin\Debug\Tringle Kura Projesi.exe.config
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\bin\Debug\Tringle Kura Projesi.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\bin\Debug\Tringle Kura Projesi.pdb
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\obj\Debug\Tringle Kura Projesi.csprojResolveAssemblyReference.cache
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\obj\Debug\Tringle Kura Projesi.exe
+C:\Users\aksoy\OneDrive\Masaüstü\Tringle Kura Projesi\Tringle Kura Projesi\obj\Debug\Tringle Kura Projesi.pdb
